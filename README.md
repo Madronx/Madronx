@@ -11,7 +11,7 @@
 ![Madronx GitHub stats](https://github-readme-stats.vercel.app/api?username=Madronx&show_icons=true&theme=dracula)
 
 
-## Linguagens utilizadas
+## Linguagens & Ferramentas
 
   
 <div>
