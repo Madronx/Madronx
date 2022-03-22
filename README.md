@@ -9,7 +9,7 @@
 
 
 ![Madronx GitHub stats](https://github-readme-stats.vercel.app/api?username=Madronx&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madronx)](https://github.com/Madronx/github-readme-stats)
+
 
 ## Linguagens utilizadas
 
